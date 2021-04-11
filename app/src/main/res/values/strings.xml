@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FakeRun_Huawei</string>
+    <string name="Main_Title">户外跑步</string>
+    <string name="route">轨迹</string>
+    <string name="speed">配速</string>
+    <string name="chart">图表</string>
+    <string name="detail">详情</string>
+    <string name="km">公里</string>
+    <string name="exercise_time">运动时间</string>
+    <string name="demo">demo</string>
+    <string name="energy">热量</string>
+    <string name="kilo_kal">千卡</string>
+    <string name="average_speed">平均配速</string>
+    <string name="per_kilo">/公里</string>
+    <string name="average_spd">平均速度</string>
+    <string name="kilo_per_hour">公里/小时</string>
+    <string name="step_per_second">步/分钟</string>
+    <string name="average_step_fre">平均步频</string>
+    <string name="average_step_len">平均步幅</string>
+    <string name="cm">厘米</string>
+    <string name="step">步数</string>
+    <string name="steps">步</string>
+    <string name="distance">距离</string>
+    <string name="generate">GENERATE</string>
+    <string name="margin_set">设置横线位移距离，留空默认</string>
+</resources>
